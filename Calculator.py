@@ -1,6 +1,5 @@
 from tkinter import *
 import os
-import pylint
 
 root = Tk()
 root.title = "Simple Calculator"
