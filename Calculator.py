@@ -108,5 +108,4 @@ button_0.grid(row=4, column=1)
 button_equal.grid(row=4, column=2)
 button_div.grid(row=4, column=3)
 
-root.iconbitmap('/Neiio-Prime-Dock-2-Downloads.ico')
 root.mainloop()
